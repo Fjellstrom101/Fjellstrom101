@@ -7,9 +7,9 @@
 
 - 💼 I’m currently studying .NET at <a href="https://phoenix.tech/griffyn/" target="blank">IT Högskolan</a>
 
-- 🌱 I’m currently looking for internship (LIA)
+- 🤝 I’m currently looking for internship (LIA)
 
-- 🤝 I’m available for freelancing.
+- 🌱 I’m .
 
 - 📫 How to reach me **Linus.fjellstrom@gmail.com**
 
@@ -24,8 +24,8 @@
 
 | Repo                           | Description                                                   | Tech stack                     |
 | ------------------------------ | ------------------------------------------------------------- | ------------------------------ |
-| [ECommerce Frontend][bb]       | A frontend webpage for the fictional company BagarBasse       | ![Chess](https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=light)|
-| [Quiz Game][qg]                | A Quiz game                                                   | [![Concrete Indium](https://skillicons.dev/icons?i=cs,dotnet)](https://github.com/ITHS-gbg/labb-3-Fjellstrom101)                           |
+| [ECommerce Frontend][bb]       | A frontend webpage for the fictional company BagarBasse <br> View on <a href="https://fjellstrom101.github.io/Bageri/">GitHub Pages</a>      | ![ECommerce Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=light)|
+| [Quiz Game][qg]                | A Quiz game                                                   | [![Quiz Game](https://skillicons.dev/icons?i=cs,dotnet,mongodb)](https://github.com/ITHS-gbg/labb-3-Fjellstrom101)                           |
 
 [bb]: https://github.com/Fjellstrom101/Bageri
 [qg]: https://github.com/ITHS-gbg/labb-3-Fjellstrom101
@@ -35,11 +35,16 @@
 ---
 ### HackerRank
 
+👨‍💻 Follow me on <a href="https://www.hackerrank.com/linus_fjellstrom">Hackerrank</a>
+<br>
+
+<img src='https://hrcdn.net/fcore/assets/generated-badges/problem-solving_level_3_stars_5_linkedin-87839cf294.png' alt='problem-solving' height='120'><img src='https://hrcdn.net/fcore/assets/generated-badges/java_level_3_stars_5_linkedin-76cbc0ca6b.png' alt='problem-solving' height='120' style="transform: translateX(100px);">
+
 ---
 
 ### Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fjellstrom101&show_icons=true&theme=transparent)
+![Fjellstrom101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fjellstrom101&show_icons=true&theme=transparent)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fjellstrom101&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
