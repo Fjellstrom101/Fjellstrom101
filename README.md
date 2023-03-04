@@ -9,11 +9,11 @@
 
 - 🤝 I’m currently looking for internship (LIA)
 
-- 🌱 I’m .
+- 🌱 I’ve got a passion for problem solving.
 
 - 📫 How to reach me **Linus.fjellstrom@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+
 <br/>
 
 ---
@@ -24,11 +24,18 @@
 
 | Repo                           | Description                                                   | Tech stack                     |
 | ------------------------------ | ------------------------------------------------------------- | ------------------------------ |
-| [ECommerce Frontend][bb]       | A frontend webpage for the fictional company BagarBasse <br> View on <a href="https://fjellstrom101.github.io/Bageri/">GitHub Pages</a>      | ![ECommerce Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=light)|
-| [Quiz Game][qg]                | A Quiz game                                                   | [![Quiz Game](https://skillicons.dev/icons?i=cs,dotnet,mongodb)](https://github.com/ITHS-gbg/labb-3-Fjellstrom101)                           |
+|[ECommerce Webpage (WIP)][bb2]      |   A complete webpage for the fictional company BagarBasse (Work in progress) | HTML, CSS, Bootstrap, Javascript, JSON, C#, ASP.NET, Blazor, SQL Server, MongoDB |
+|[ECommerce Frontend][bb1]               | A frontend webpage for the fictional company BagarBasse <br> View on <a href="https://fjellstrom101.github.io/Bageri/">GitHub Pages</a> | HTML, CSS, Bootstrap, Javascript, JSON|
+|[Quiz Game V2 (MongoDB)][qg2]               | A Quiz game | C#, WPF, MVVM, JSON & MongoDB|
+| [Quiz Game V1 (JSON)][qg1]              | A Quiz game | C#, WPF, MVVM, JSON|
+| [Playlist Editor][pe]       | A C# Playlist editor       | C#, WPF, MVVM, EntityFramework, SQL Server, T-SQL|
 
-[bb]: https://github.com/Fjellstrom101/Bageri
-[qg]: https://github.com/ITHS-gbg/labb-3-Fjellstrom101
+[bb1]: https://github.com/Fjellstrom101/Bageri
+[bb2]: https://github.com/ITHS-gbg/labb-2-webb-Fjellstrom101
+[qg1]: https://github.com/ITHS-gbg/labb-3-Fjellstrom101
+[qg2]: https://github.com/ITHS-gbg/labb-3-databaser-Fjellstrom101
+[pe]: https://github.com/ITHS-gbg/labb-2-databaser-Fjellstrom101
+
 
 </div>
 
@@ -51,6 +58,9 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linus-fjellstr%C3%B6m-826a8b264/)
 
 <!--
+
+- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+
 **Fjellstrom101/Fjellstrom101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
