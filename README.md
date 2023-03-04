@@ -26,8 +26,8 @@
 | ------------------------------ | ------------------------------------------------------------- | ------------------------------ |
 |[ECommerce Webpage (WIP)][bb2]      |   A complete webpage for the fictional company BagarBasse (Work in progress) | HTML, CSS, Bootstrap, Javascript, JSON, C#, ASP.NET, Blazor, SQL Server, MongoDB |
 |[ECommerce Frontend][bb1]               | A frontend webpage for the fictional company BagarBasse <br> View on <a href="https://fjellstrom101.github.io/Bageri/">GitHub Pages</a> | HTML, CSS, Bootstrap, Javascript, JSON|
-|[Quiz Game V2 (MongoDB)][qg2]               | A Quiz game | C#, WPF, MVVM, JSON & MongoDB|
-| [Quiz Game V1 (JSON)][qg1]              | A Quiz game | C#, WPF, MVVM, JSON|
+|[Quiz Game V2 (MongoDB)][qg2]               | A GUI Quiz application using MongoDB | C#, WPF, MVVM, JSON & MongoDB|
+| [Quiz Game V1 (JSON)][qg1]              | A GUI Quiz application using JSON | C#, WPF, MVVM, JSON|
 | [Playlist Editor][pe]       | A C# Playlist editor       | C#, WPF, MVVM, EntityFramework, SQL Server, T-SQL|
 
 [bb1]: https://github.com/Fjellstrom101/Bageri
