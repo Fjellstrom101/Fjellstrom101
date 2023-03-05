@@ -36,7 +36,7 @@
 [qg2]: https://github.com/ITHS-gbg/labb-3-databaser-Fjellstrom101
 [pe]: https://github.com/ITHS-gbg/labb-2-databaser-Fjellstrom101
 
-
+<br>
 </div>
 
 ---
