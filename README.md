@@ -5,13 +5,15 @@
 <br>
 <br>
 
-- 💼 I’m currently studying .NET at <a href="https://phoenix.tech/griffyn/" target="blank">IT Högskolan</a>
+- 💼 I’m currently studying .NET at <a href="https://www.iths.se" target="blank">IT Högskolan</a>
 
 - 🤝 I’m currently looking for internship (LIA)
 
 - 🌱 I’ve got a passion for problem solving.
 
 - 📫 How to reach me **Linus.fjellstrom@gmail.com**
+
+- 📄 Know about my experiences <a href="https://www.linusfjellstrom.dev/assets/files/Linus%20Fjellstrom%20CV.pdf" target="blank">Resume</a>
 
 
 <br/>
@@ -59,7 +61,7 @@
 
 <!--
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+
 
 **Fjellstrom101/Fjellstrom101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
