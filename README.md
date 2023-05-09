@@ -26,7 +26,8 @@
 
 | Repo                           | Description                                                   | Tech stack                     |
 | ------------------------------ | ------------------------------------------------------------- | ------------------------------ |
-|[ECommerce Webpage (WIP)][bb2]      |   A complete webpage for the fictional company BagarBasse (Work in progress) | HTML, CSS, Bootstrap, Javascript, JSON, C#, ASP.NET, Blazor, SQL Server, MongoDB |
+  | [Frölunda Arcade (Group project)][fa] |   A complete eCommerce webpage for the fictional company Frölunda Arcade. The webpage also includes an Arcade page and a forum <br> A live version can be found <a href="https://frolundaarcade.azurewebsites.net/">here.</a>| HTML, CSS, Bootstrap, Javascript, JSON, C#, ASP.NET, Blazor, SQL Server, Azure |
+|[ECommerce Webpage (WIP)][bb2]      |   A complete ecommerce webpage for the fictional company BagarBasse | HTML, CSS, Bootstrap, Javascript, JSON, C#, ASP.NET, Blazor, SQL Server, MongoDB |
 |[ECommerce Frontend][bb1]               | A frontend webpage for the fictional company BagarBasse <br> View on <a href="https://fjellstrom101.github.io/Bageri/">GitHub Pages</a> | HTML, CSS, Bootstrap, Javascript, JSON|
 |[Quiz Game V2 (MongoDB)][qg2]               | A GUI Quiz application using MongoDB | C#, WPF, MVVM, JSON & MongoDB|
 | [Quiz Game V1 (JSON)][qg1]              | A GUI Quiz application using JSON | C#, WPF, MVVM, JSON|
@@ -37,6 +38,7 @@
 [qg1]: https://github.com/ITHS-gbg/labb-3-Fjellstrom101
 [qg2]: https://github.com/ITHS-gbg/labb-3-databaser-Fjellstrom101
 [pe]: https://github.com/ITHS-gbg/labb-2-databaser-Fjellstrom101
+ [fa]: https://frolundaarcade.azurewebsites.net/
 
 <br>
 </div>
