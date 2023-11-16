@@ -7,8 +7,6 @@
 
 - 💼 I’m currently studying .NET at <a href="https://www.iths.se" target="blank">IT Högskolan</a>
 
-- 🤝 I’m currently looking for internship (LIA)
-
 - 🌱 I’ve got a passion for problem solving.
 
 - 📫 How to reach me **Linus.fjellstrom@gmail.com**
